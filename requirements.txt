@@ -1,0 +1,10 @@
+numpy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d18vvv3mag/croot/numpy_and_numpy_base_1672336185310/work
+pandas==1.5.3
+matplotlib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_c08pvf1yzu/croot/matplotlib-suite_1677674309145/work
+matplotlib-inline @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f6fdc0hldi/croots/recipe/matplotlib-inline_1662014472341/work
+jupyter==6.5.2
+seaborn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2ci8qzbdyk/croot/seaborn_1673479197351/work
+scikit-image @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2dnc0r7yu5/croot/scikit-image_1669241742476/work
+scikit-learn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d8r_ofrzm7/croot/scikit-learn_1676911660546/work
+scipy==1.10.0
+imbalanced-learn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a1olt0m5dd/croot/imbalanced-learn_1677191585739/work
